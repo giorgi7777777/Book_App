@@ -1,2 +1,2 @@
-working place - Android studio
-Google authorization book app
+Google authorization book app.
+working place - Android studio.
